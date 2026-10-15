@@ -1,0 +1,14 @@
+{
+  "name": "ori1992-skills",
+  "owner": {
+    "name": "ori1992"
+  },
+  "plugins": [
+    {
+      "name": "paper-to-bullets",
+      "source": "./",
+      "description": "Turn a research paper into five triage bullets: title, question, method, result, limitation.",
+      "version": "1.0.0"
+    }
+  ]
+}
